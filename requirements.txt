@@ -1,0 +1,19 @@
+# ─────────────────────────────────────────────────────────────
+# Neural Digit — Handwritten Digit Recognizer
+# Python ≥ 3.9 required
+# ─────────────────────────────────────────────────────────────
+
+# Core ML
+tensorflow>=2.13.0          # CNN training (also installs Keras)
+numpy>=1.24.0
+
+# App framework
+streamlit>=1.35.0
+streamlit-drawable-canvas>=0.9.3  # freehand drawing widget
+
+# Visualisation
+plotly>=5.18.0
+pandas>=2.0.0
+
+# Image processing (PIL)
+Pillow>=10.0.0
