@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Handwritten-Digit-Recognizer
 
 A full-stack Machine Learning application that trains a Convolutional Neural Network
